@@ -1,0 +1,14 @@
+C:\Users\Section2\Desktop\MyCrm\MyCrmService\bin\Debug\MyCrmService.dll
+C:\Users\Section2\Desktop\MyCrm\MyCrmService\bin\Debug\MyCrmService.pdb
+C:\Users\Section2\Desktop\MyCrm\MyCrmService\bin\Debug\MyCrm.Model.dll
+C:\Users\Section2\Desktop\MyCrm\MyCrmService\bin\Debug\MyCrrmData.dll
+C:\Users\Section2\Desktop\MyCrm\MyCrmService\bin\Debug\EntityFramework.dll
+C:\Users\Section2\Desktop\MyCrm\MyCrmService\bin\Debug\MyCrm.Model.pdb
+C:\Users\Section2\Desktop\MyCrm\MyCrmService\bin\Debug\MyCrrmData.pdb
+C:\Users\Section2\Desktop\MyCrm\MyCrmService\bin\Debug\MyCrrmData.dll.config
+C:\Users\Section2\Desktop\MyCrm\MyCrmService\bin\Debug\EntityFramework.xml
+C:\Users\Section2\Desktop\MyCrm\MyCrmService\obj\Debug\MyCrm.Service.csprojAssemblyReference.cache
+C:\Users\Section2\Desktop\MyCrm\MyCrmService\obj\Debug\MyCrm.Service.csproj.CoreCompileInputs.cache
+C:\Users\Section2\Desktop\MyCrm\MyCrmService\obj\Debug\MyCrm.Service.csproj.CopyComplete
+C:\Users\Section2\Desktop\MyCrm\MyCrmService\obj\Debug\MyCrmService.dll
+C:\Users\Section2\Desktop\MyCrm\MyCrmService\obj\Debug\MyCrmService.pdb
